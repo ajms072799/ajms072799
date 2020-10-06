@@ -10,7 +10,8 @@ In his last year as a BS Information Technology, AJ focus on Web Development and
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with C#.
 - 💬 Ask me about anything new technology.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ajmsdlsrys-dev/ "Aron James Linkedin Profile") or on my email <ajms.072799@gmail.com>.
+- 🤗 Goal for 2020: First Job, Youtube Channel.
+- 📫 How to reach me: <ajms.072799@gmail.com>.
 - ⚡ Fun fact: Exploring or learning new things 🔥
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajms072799&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
