@@ -1,4 +1,4 @@
-# <center>Hola, I'am Aron James <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😄</center>
+# <center>Hola, I'am Aron James <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">😄</center>
 
 <img src="image/updated-banner.png">
 
@@ -15,6 +15,9 @@ In his last year as a BS Information Technology, AJ focus on **Web Development**
 - 🤗 Goal for 2020: First Job, Youtube Channel.
 - 📫 How to reach me: <ajms.072799@gmail.com>.
 - ⚡ Fun fact: Exploring or learning new things 🔥
+
+### Contact with me:
+[<image src="image/iconfinder_Rounded_Facebook_svg_5282541.svg" width="30">](https://www.facebook.com/aronjames27 "Facebook Profile") [<img src="image/iconfinder_Rounded_Linkedin2_svg_5282542.svg" width="30">](https://www.linkedin.com/in/ajmsdlsrys-dev/ "Linkedin Profile") [<img src="image/iconfinder_Rounded_Twitter5_svg_5282551.svg" width="30">](https://twitter.com/_ajmsdlsrys "Twitter Profile") [<img src="image/iconfinder_Rounded_Instagram_svg_5282544.svg" width="30">](https://www.instagram.com/_ajmsdlsrys/?hl=en "Instagram Profile")
 
 ### Language and Tools: 
 
