@@ -1,5 +1,5 @@
 # Hola, I'am Aron James <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😄
-![]()
+<img src="updated-banner.png">
 ## About Aron James
 Aron James is a graduate of vocational course Computer Hardware Servicing, Focus on Hardware and Software, Troubleshoot, and Network Configuration. After he take a vocational course he continue his journey to be an I.T Professional he take a 4 year's course and now he is graduating BS Information Technology Student. Aron James like and actively attending Seminar, Workshop, and Training to improve his personality and skill's. In his 3rd year of BSIT Aron is elected as President of Society of Information Technology Students and Public Information Officer of Central Student Government.
 
