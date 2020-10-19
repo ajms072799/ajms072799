@@ -1,4 +1,4 @@
-# <center>Hola, I'am Aron James <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">😄</center>
+# Hola, I'am Aron James <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">😄
 
 <img src="image/updated-banner.png">
 
