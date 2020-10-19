@@ -14,7 +14,7 @@ In his last year as a BS Information Technology, AJ focus on **Web Development**
 - 💬 Ask me about anything new technology.
 - 🤗 Goal for 2020: First Job, Youtube Channel.
 - 📫 How to reach me: <ajms.072799@gmail.com>.
-- ⚡ Fun fact: Exploring or learning new things 🔥
+- ⚡ Fun fact: I like collecting Funko Pops and Exploring new things. 🔥
 
 ### Contact with me:
 [<img src="image/iconfinder_Website_4490636.svg" width="30">](https://ajmsdlsrys-dev.netlify.app/index.html "Aron James Portfolio Site")[<image src="image/iconfinder_Rounded_Facebook_svg_5282541.svg" width="30">](https://www.facebook.com/aronjames27 "Facebook Profile") [<img src="image/iconfinder_Rounded_Linkedin2_svg_5282542.svg" width="30">](https://www.linkedin.com/in/ajmsdlsrys-dev/ "Linkedin Profile") [<img src="image/iconfinder_Rounded_Twitter5_svg_5282551.svg" width="30">](https://twitter.com/_ajmsdlsrys "Twitter Profile") [<img src="image/iconfinder_Rounded_Instagram_svg_5282544.svg" width="30">](https://www.instagram.com/_ajmsdlsrys/?hl=en "Instagram Profile")
