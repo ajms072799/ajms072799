@@ -12,7 +12,7 @@ In his last year as a BS Information Technology, AJ focus on **Web Development**
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with C#.
 - 💬 Ask me about anything new technology.
-- 🤗 Goal for 2020: First Job, Youtube Channel.
+- 🤗 Goal for 2020: Mastering the C# this year! 🔥
 - 📫 How to reach me: <ajms.072799@gmail.com>.
 - ⚡ Fun fact: I like collecting Funko Pops and Exploring new things. 🔥
 
