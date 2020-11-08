@@ -1,3 +1,4 @@
+<div style="background-color: #232323; color: #fff;">
 <img src="image/updated-banner.png">
 
 ## About Me!👨‍💻
@@ -21,3 +22,4 @@ In his last year as a BS Information Technology, AJ focus on **Web Development**
 <img src="image/iconfinder_windows-visual-studio_306167.svg" alt="Visual Studio Icon" width="30"> <img src="image/iconfinder_html5_245995.svg" alt="HTML5" width="30"> <img src="image/iconfinder_badge-css-3_317756.svg" alt="css3" width="30"> <img src="image/iconfinder_Bootstrap_682700.svg" alt="bootstrap" width="40"> <img src="image/iconfinder_288_Sass_logo_4375066.svg" alt="Sass" width="40"> <img src="image/iconfinder_code-programming-javascript-software-develop-command-language_652581.svg" alt="JavaScript" width="40"> <img src="image/iconfinder_code-programming-javascript-jquery-develop-framework-language_652582.svg" alt="jquery" width="40"> <img src="image/iconfinder_php-logo_1012812.svg" alt="PHP" width="40"> <img src="image/iconfinder_my_sql_682683.svg" alt="MySql" width="40"> <img src="image/iconfinder_social_media_social_media_logo_git_2993773.svg" alt="Git" width="40"> <img src="image/iconfinder_github-square_1608907.svg" alt="Github" width="40">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajms072799&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
