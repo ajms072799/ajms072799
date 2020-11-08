@@ -12,7 +12,7 @@ In his last year as a BS Information Technology, AJ focus on <span style="color:
 - 🤔 I’m looking for help with Responsive Web Design.
 - 💬 Ask me about anything new trend design and cryptocurrencies.
 - 🤗 Goal for 2020: To be a T-Shaped person 🎯
-- 📫 How to reach me: <ajms.072799@gmail.com>.
+- 📫 How to reach me: <a href="#" style="color: #ffb71b">ajms.072799@gmail.com</a>
 - ⚡ Fun fact: I love animals 🐶 & i love exploring new things 🚀.
 
 ### <span style="color: #ffb71b; font-weight: bold; padding-left: 20px">Contact with me:</span>
