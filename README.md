@@ -1,7 +1,7 @@
 <div style="background-color: #232323; color: #fff;">
 <img src="image/updated-banner.png">
 
-## About Me!👨‍💻
+## <span style="color: #ffb71b; padding: 0 20px;">About Me!👨‍💻</span>
 Aron James is a graduate of vocational course **Computer Hardware Servicing**, Focus on Hardware and Software, Troubleshoot, and Network Configuration. After he take a vocational course he continue his journey to be an **_I.T Professional_** he take a 4 year's course and now he is graduating **BS Information Technology Student**. Aron James like and actively attending Seminar, Workshop, and Training to improve his personality and skill's. In his 3rd year of BSIT Aron is elected as President of Society of Information Technology Students and Public Information Officer of Central Student Government.
 
 In his last year as a BS Information Technology, AJ focus on **Web Development** and engage herself to build his skill's in web development also in his internship and capstone project to achieve his goal. **_AJ have a good experience in HTML, CSS and good understanding in JavaScript, Jquery, Bootstrap Framework, and SASS. In his Back-End have a good understanding in PHP and MySQL basic create, read, update, delete. Knowledge in Version Control using Git (GIthub, Gitlab, and GitKraken). And now AJ exploring his knowledge in Cloud Computing Amazon Web Service, Azure._** 
