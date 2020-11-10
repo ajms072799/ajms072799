@@ -6,7 +6,7 @@
 
 In his last year as a BS Information Technology, AJ focus on <span style="color: #ffb71b; font-weight: bold;">Web Development</span> and engage herself to build his skill's in web development also in his internship and capstone project to achieve his goal. <span style="color: #ffb71b; font-weight: bold;">_AJ have a good experience in HTML, CSS and good understanding in JavaScript, Jquery, Bootstrap Framework, and SASS. In his Back-End have a good understanding in PHP and MySQL basic create, read, update, delete. Knowledge in Version Control using Git (GIthub, Gitlab, and GitKraken). And now AJ exploring his knowledge in Cloud Computing Amazon Web Service, Azure._</span> </span>
 
-- 🔭 I’m currently working on my Portfolio.
+- 🔭 I’m currently working on my Portfolio 🧑‍💻
 - 🌱 I’m currently learning Front-End Web Development & C#.
 - 👯 I’m looking to collaborate on other Programmer in the hood! 🔥
 - 🤔 I’m looking for help with Responsive Web Design.
