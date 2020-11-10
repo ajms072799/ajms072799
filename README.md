@@ -8,7 +8,7 @@ In his last year as a BS Information Technology, AJ focus on <span style="color:
 
 - 🔭 I’m currently working on my Portfolio 🧑‍💻
 - 🌱 I’m currently learning Front-End Web Development & C#.
-- 👯 I’m looking to collaborate on other Programmer in the hood! 🔥
+- 👯 I’m looking to collaborate on other Programmer in industry. 🔥
 - 🤔 I’m looking for help with Responsive Web Design.
 - 💬 Ask me about anything new trend design and cryptocurrencies.
 - 🤗 Goal for 2020: To be a T-Shaped person 🎯
