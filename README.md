@@ -13,7 +13,7 @@ In his last year as a BS Information Technology, AJ focus on <span style="color:
 - 💬 Ask me about anything new trend design and cryptocurrencies.
 - 🤗 Goal for 2020: To be a T-Shaped person 🎯
 - 📫 How to reach me: <a href="#" style="color: #ffb71b">ajms.072799@gmail.com</a>
-- ⚡ Fun fact: I love animals 🐶 & i love exploring new things 🚀.
+- ⚡ Fun fact: I love animals especially dogs 🐶 & i love exploring new things 🚀.
 
 ### <span style="color: #ffb71b; font-weight: bold; padding-left: 20px">Contact with me:</span>
 <span style="padding-left: 15px;">[<img src="image/iconfinder_Website_4490636.svg" width="30">](https://ajmsdlsrys-dev.netlify.app/index.html "Aron James Portfolio Site")[<image src="image/iconfinder_Rounded_Facebook_svg_5282541.svg" width="30">](https://www.facebook.com/aronjames27 "Facebook Profile") [<img src="image/iconfinder_Rounded_Linkedin2_svg_5282542.svg" width="30">](https://www.linkedin.com/in/ajmsdlsrys-dev/ "Linkedin Profile") [<img src="image/iconfinder_Rounded_Twitter5_svg_5282551.svg" width="30">](https://twitter.com/_ajmsdlsrys "Twitter Profile") [<img src="image/iconfinder_Rounded_Instagram_svg_5282544.svg" width="30">](https://www.instagram.com/_ajmsdlsrys/?hl=en "Instagram Profile") </span>
