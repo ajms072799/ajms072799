@@ -9,7 +9,7 @@ In his last year as a BS Information Technology, AJ focus on <span style="color:
 - 🔭 I’m currently working on my Portfolio 🧑‍💻
 - 🌱 I’m currently learning Front-End Web Development & C#.
 - 👯 I’m looking to collaborate on other Programmer in industry. 🔥
-- 🤔 I’m looking for help with Responsive Web Design.
+- 🤔 I’m looking for help with Responsive Web Design & Javascript Framework.
 - 💬 Ask me about anything new trend design and cryptocurrencies.
 - 🤗 Goal for 2020: To be a T-Shaped person 🎯
 - 📫 How to reach me: <a href="#" style="color: #ffb71b">ajms.072799@gmail.com</a>
