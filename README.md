@@ -6,12 +6,14 @@
 Hello, I'm Aron James Jr. UI | UX Designer from the Philippines. I am soon to manage my own Creative Agency and E-Commerce Business (Law of Attraction). And I loved reading books and I am hooked on productivity hacks and design sprint (even though I don't have any experience doing it LOL)
 </span>
 
-- 🔭 I’m currently working on my Portfolio 🧑‍💻
-- 🌱 I’m currently learning Front-End Web Development & C#.
-- 👯 I’m looking to collaborate on other Programmer in industry. 🔥
-- 🤔 I’m looking for help with Responsive Web Design & Javascript Framework.
-- 💬 Ask me about anything new trend design and cryptocurrencies.
-- 🤗 Goal for 2020: To be a T-Shaped person 🎯
+<span> </span>
+
+- 🔭 I’m currently working on my Design Portfolio 🧑‍💻
+- 🌱 I’m currently learning UX Design & Design Process.
+- 👯 I’m looking to collaborate on other Front End Designer & UX Designer in industry 🔥
+- 🤔 I’m looking for help with No Code Website builder & Design System.
+- 💬 Ask me about anything new trend design.
+- 🤗 Goal for 2022: To be a T-Shaped person 🎯
 - 📫 How to reach me: <a href="#" style="color: #ffb71b">ajms.072799@gmail.com</a>
 - ⚡ Fun fact: I love animals especially dogs 🐶 & i love exploring new things 🚀.
 
