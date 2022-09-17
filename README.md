@@ -1,10 +1,10 @@
 <div style="background-color: #232323; color: #fff;">
 <img src="image/updated-banner.png">
 
-## <span style="color: #ffb71b; padding: 0 20px;">About Me!👨‍💻</span>
-<span style="padding: 0 15px;">Aron James is a graduate of vocational course <span style="color: #ffb71b; font-weight: bold;">Computer Hardware Servicing</span>, Focus on Hardware and Software, Troubleshoot, and Network Configuration. After he take a vocational course he continue his journey to be an <span style="color: #ffb71b; font-weight: bold;">_I.T Professional_</span> he take a 4 year's course and now he is graduating <span style="color: #ffb71b; font-weight: bold;">BS Information Technology Student</span>. Aron James like and actively attending Seminar, Workshop, and Training to improve his personality and skill's. In his 3rd year of BSIT Aron is elected as President of Society of Information Technology Students and Public Information Officer of Central Student Government.
-
-In his last year as a BS Information Technology, AJ focus on <span style="color: #ffb71b; font-weight: bold;">Web Development</span> and engage herself to build his skill's in web development also in his internship and capstone project to achieve his goal. <span style="color: #ffb71b; font-weight: bold;">_AJ have a good experience in HTML, CSS and good understanding in JavaScript, Jquery, Bootstrap Framework, and SASS. In his Back-End have a good understanding in PHP and MySQL basic create, read, update, delete. Knowledge in Version Control using Git (GIthub, Gitlab, and GitKraken). And now AJ exploring his knowledge in Cloud Computing Amazon Web Service, Azure._</span> </span>
+## <span>About Me!👨‍💻</span>
+<span>
+Hello, I'm Aron James Jr. UI | UX Designer from the Philippines. I am soon to manage my own Creative Agency and E-Commerce Business (Law of Attraction). And I loved reading books and I am hooked on productivity hacks and design sprint (even though I don't have any experience doing it LOL)
+</span>
 
 - 🔭 I’m currently working on my Portfolio 🧑‍💻
 - 🌱 I’m currently learning Front-End Web Development & C#.
